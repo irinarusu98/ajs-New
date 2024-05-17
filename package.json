@@ -1,0 +1,17 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Chttps://github.com/irinarusu98/ajs-Node.js.git"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@irinarusu98/ajs": "^1.0.0"
+  }
+}
